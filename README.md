@@ -1,4 +1,4 @@
-#Titanic Survival Prediction
+#Survival Prediction
 
 The objective was to predict whether a passenger would survive based on information available in the Titanic dataset. I analyzed factors such as age, gender, passenger class, and fare to identify patterns related to survival.
 
